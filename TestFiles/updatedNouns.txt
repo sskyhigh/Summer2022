@@ -1,0 +1,17 @@
+boy 
+girl
+dog 
+town
+car
+toy
+chair
+pen
+pencil
+laptop
+phone
+projector
+paper
+home
+apple
+card
+book

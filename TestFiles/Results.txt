@@ -1,0 +1,16 @@
+    Mon     Tue     Wed   Thurs     Fri      Low     High     Mean     Consecutive
+     23      35      35      40      21 
+     29      35      34      43      33 
+     42      42      45      35      35 
+     34      28      46      49      51 
+     37      38      46      49      51 
+          23       42          No
+          28       49          No
+          23       46          Yes
+          35       49          Yes
+          21       51          Yes
+
+ 
+5 weeks were processed. 
+The Highest temp occurred on Friday
+The Highest Temp occurred on week 4
