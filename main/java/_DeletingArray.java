@@ -2,7 +2,7 @@
 // this algorithm does not always work, tested sometimes with sorted
 // and unsorted arrays.
 // for larger arrays this algorithm is not efficient.
-// time complexity 0(n)
+// time complexity O(n)
 // Not part of the summer course, was testing on my own
 
 public class _DeletingArray {
